@@ -1,1 +1,10 @@
-README
+READ ME
+
+'git add .'
+git status
+
+git commit -m 'Initial commit add text to say what you committed'
+
+copy/paste "git remote..." and "git push... " fo link my computer to git and upload my git repository (pasted from the git repository page).
+
+you don't have to use gitHub. You can use bitbucket, GitLab, and GitHub, some of which allow for private repositories.
